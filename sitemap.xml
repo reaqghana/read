@@ -1,32 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://readghana.ga/</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/ads.html</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <loc>https://readghana.ga/ads.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/discalimer.amp.html</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <loc>https://readghana.ga/disclaimer.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://readghana.ga/about.amp.html</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://readghana.ga/readghananews.amp.html</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://readghana.ga/rdstories/how-to-move-to-Ghana.amp.html</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/rdstories/how-to--Ghana.amp.html</loc>
-  <lastmod>2020-09-04T11:40:01+00:00</lastmod>
+  <loc>https://readghana.ga/rdstories/how-to-live-in-Ghana.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://readghana.ga/index.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://readghana.ga/rdnews/didier-drogba-validated-for-polls.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://readghana.ga/rdnews/wakanda-star-honoured.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://readghana.ga/rdnews/national%20service%20scheme%20ongoing%20enrollment.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://readghana.ga/rdnews/actress%20confirms%20for%20corona%20virus.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://readghana.ga/rdnews/man-angry-about-encounter.amp.html</loc>
+  <lastmod>2020-09-04T18:59:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
 
 </urlset>

@@ -22,8 +22,9 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
-#Read Ghana 
+```
 Read Ghana is a blog publishing website as a project of D3v Ghana Softwares.
 This was launched August 2020 and its live now
 You can read an article about anything in Ghana
 #Bye
+```

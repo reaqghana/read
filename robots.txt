@@ -1,4 +1,4 @@
 
-Sitemap: http://readghana.ga/sitemap.xml
+Sitemap: https://readghana.ga/sitemap.xml
 User-agent: *
 Disallow:

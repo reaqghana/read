@@ -212,18 +212,16 @@ limitations under the License.
         <p class="land-see-hero-title ampstart-title-lg bold pt2 mx2">
           
           </p>
-     
-          <amp-script width="200" height="100" script="hello-world">
-         <p>Date/Time: <span id="datetime"></span></p>
-          </amp-script>
-
-    <script id="hello-world" type="text/plain" target="amp-script">
-        var dt = new Date();
-        document.getElementById("datetime").innerHTML = (("0"+dt.getDate()).slice(-2)) +"."+
-        (("0"+(dt.getMonth()+1)).slice(-2)) +"."+ (dt.getFullYear()) +" "+ (("0"+dt.getHours()).slice(-2)) +":"+
-        (("0"+dt.getMinutes()).slice(-2));
-</script>
-
+        <div style="background-color:rgb(179, 175, 175); color:black;">
+  <a href="https://time.is/Accra" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Accra:</a>
+  <span id="Accra_z001" style="font-size:100px;"></span>
+  <script src="//widget.time.is/t.js"></script>
+  <script>
+    time_is_widget.init({
+      Accra_z001: {}
+    });
+  </script>
+   </div>
      
 
         <h2 class="land-see-story-subtitle ampstart-subtitle bold max-width-3 mx-auto pb0 pt4 px4">International

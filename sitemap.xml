@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 
 <url>
@@ -13,40 +13,39 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/ads</loc>
+  <loc>https://readghana.ga/ads.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/disclaimer</loc>
+  <loc>https://readghana.ga/disclaimer.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/about</loc>
+  <loc>https://readghana.ga/about.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/rdstories/how-to-move-to-Ghana.amp.html</loc>
+  <loc>https://readghana.ga/contact.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/rdstories/how-to-live-in-Ghana.amp.html</loc>
+  <loc>https://blog.readghana.ga/blog/time-in-ghana-now.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/rdstories/how-to-send-money-to-Ghana.amp.html</loc>
+  <loc>https://blog.readghana.ga/blog/Moving-to-Ghana.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/index.html</loc>
+  <loc>https://blog.readghana.ga/blog/Send-money-to-Ghana.html</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
 
 </urlset>

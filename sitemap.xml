@@ -8,42 +8,30 @@
 
 
 <url>
-  <loc>https://readghana.ga/</loc>
+  <loc>https://readink.ga/</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>1.00</priority>
 </url>
+
 <url>
-  <loc>https://readghana.ga/ads.html</loc>
+  <loc>https://blog.readink.ga/</loc>
+  <lastmod>2020-09-05T12:27:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+
+<url>
+  <loc>https://blog.readink.ga/blog/time-in-ghana-now</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/disclaimer.html</loc>
+  <loc>https://blog.readink.ga/blog/Moving-to-Ghana</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://readghana.ga/about.html</loc>
-  <lastmod>2020-09-05T12:27:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://readghana.ga/contact.html</loc>
-  <lastmod>2020-09-05T12:27:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blog.readghana.ga/blog/time-in-ghana-now.html</loc>
-  <lastmod>2020-09-05T12:27:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blog.readghana.ga/blog/Moving-to-Ghana.html</loc>
-  <lastmod>2020-09-05T12:27:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blog.readghana.ga/blog/Send-money-to-Ghana.html</loc>
+  <loc>https://blog.readink.ga/blog/Send-money-to-Ghana</loc>
   <lastmod>2020-09-05T12:27:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>

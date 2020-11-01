@@ -4,7 +4,7 @@ html, body {
 
 @media (max-width: 460px) {
 	body {
-		font-size: 20pt;
+		font-size: 20px;
 	}
 }
 
@@ -170,7 +170,7 @@ hr {
 }
 @media (max-width: 460px) {
 	#menu li {
-		display: inline;
+		display: inline;		
 	}
 }
 #menu a {
@@ -206,7 +206,8 @@ hr {
 }
 @media (max-width: 460px) {
 	#page {
-		display:none;
+		width:100%;
+		padding:5px;
 	}
 }
 /** CONTENT */
@@ -214,6 +215,13 @@ hr {
 #content {
 	float: left;
 	width: 600px;
+}
+@media (max-width: 460px) {
+	#content{		
+		width: 100%;
+		margin:0em 0em;
+	}
+	
 }
 
 /** SIDEBAR 1 */
@@ -251,7 +259,7 @@ hr {
 
 #footer p {
 	text-align: center;
-	color: rgba(255,255,255,0.2);
+	color: white
 }
 
 #footer a {
